@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Launch-related strings. -->
+    <string name="app_name">Power Options</string>
+    <string name="power_options">Power Options</string>
+
+    <!-- Menu item strings. -->
+    <string name="stop">Stop</string>
+
+</resources>
