@@ -1,9 +1,17 @@
 poweroptions.googleglass
 ========================
 
-A simple Power Options card for toggling hardware
+A simple Power Options card for toggling hardware.  Currently enables/disables Wifi and Bluetooth
 
-Right now the functionality is limited to wifi, but I am currently working on bluetooth and push options as well.
+Vocie Commands: Okay Glass -> Power Options -> Wifi or Bluetooth -> Tap to Enable/Disable
+
+Currently the switch does not automatically display the correct status.  Must Toggle once and then set to your preferred power state.
+
+Future Addittions
+-Synch Toggle
+-Visual Enhancements
+-Power State Correction
+
 
 This is all to help in the extension of battery life.
 
